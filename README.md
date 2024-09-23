@@ -35,9 +35,6 @@ To run the demo, you should also download the pre-trained SD models below:
 
 
 # Inference 
-
-Please download all models and save them under `./checkpoints` path.
-
 Reenacted by a single image:
 ```
 python infer_image.py \
